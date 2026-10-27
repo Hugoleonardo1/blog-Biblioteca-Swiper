@@ -1,0 +1,38 @@
+export const slideImages = [
+  {
+    id: 1,
+    src: "/images/blog-careers.jpg",
+    alt: "Profissionais conversando durante uma reunião de trabalho",
+    category: "Carreira",
+    title: "Como se vestir para cada tipo de entrevista de emprego",
+    date: "5 Fev 2026",
+    views: "11k",
+  },
+  {
+    id: 2,
+    src: "/images/blog-education.jpg",
+    alt: "Adulto e criança passando um momento juntos",
+    category: "Lazer",
+    title: "Desenvolvimento Profissional na Área da Infância",
+    date: "12 Jul 2026",
+    views: "45k",
+  },
+  {
+    id: 3,
+    src: "/images/blog-psychology.jpg",
+    alt: "Profissional em um ambiente de atendimento",
+    category: "Informação profissional",
+    title: "O que os profissionais de saúde comportamental que atuam via telessaúde precisam saber",
+    date: "21 Dez 2025",
+    views: "30k",
+  },
+  {
+    id: 4,
+    src: "/images/blog-study.jpg",
+    alt: "Estudantes colaborando em uma atividade de aprendizagem",
+    category: "Educação",
+    title: "Desenvolvendo competências para um mundo profissional em transformação",
+    date: "18 Set 2026",
+    views: "7k",
+  },
+];
